@@ -5,5 +5,6 @@ public class stackpractice{
        Stack<Integer> stack=new Stack<>();
        stack.push(65643);
       System.out.println( stack.pop());
+      System.out.println("hi");
     }
 }

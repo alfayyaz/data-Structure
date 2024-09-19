@@ -25,5 +25,5 @@ stack.push(number);
 for(Integer element:stack){
     System.out.println(element);
 }
-    
+
 }}

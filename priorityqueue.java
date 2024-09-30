@@ -27,7 +27,8 @@ public class priorityqueue {
                 sortqueue();
             } else {
                 System.out.println("Queue is full");
-            }
+            }JAVA
+            
         }
 
         public void display() {
